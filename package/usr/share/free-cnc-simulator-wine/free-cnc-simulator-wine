@@ -1,0 +1,4 @@
+#!/bin/bash
+
+chmod 777 -R /usr/share/free-cnc-simulator-wine/
+wine start /unix /usr/share/free-cnc-simulator-wine/CncSimulator.exe

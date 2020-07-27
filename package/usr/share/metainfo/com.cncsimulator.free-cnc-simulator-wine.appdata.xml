@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component type="desktop">
+  <id>com.cncsimulator.free-cnc-simulator-wine.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>Bulldog CncSimulator LICENSE</project_license>
+  <name>CncSimulator</name>
+  <name xml:lang="pt_BR">CncSimulator</name>
+  <summary>Computer numerically controlled machine simulator</summary>
+  <summary xml:lang="pt_BR">Simulador de máquinas de comando numérico computadorizado</summary>
+  <description>
+    <p>Simulator of milling machines and CNC lathes in 3D environment with G code editor.</p>
+    <p xml:lang="pt_BR">Simulador de máquinas fresadoras e tornos CNC em ambiente 3D com editor de códigos G.</p>
+  </description>
+  <url type="homepage">http://cncsimulator.info</url>
+  <url type="bugtracker">http://support.cncsimulator.com/support/home</url>
+  <url type="help">http://cncsimulator.info/cnc-academy</url>
+  <url type="donation">http://cncsimulator.info</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Screenshot of app</caption>
+      <caption xml:lang="pt_BR">Tela do App</caption>
+      <image>https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/224d752e796ada0a31e098153b287f42/large.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>CncSimulator</project_group>
+  <provides>
+    <binary>free-cnc-simulator-wine</binary>
+  </provides>
+  <releases>
+    <release version="4.53" date="2020-07-27"/>
+  </releases>
+  <content_rating type="oars-1.0" />
+</component>

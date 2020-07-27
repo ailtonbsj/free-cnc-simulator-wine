@@ -1,0 +1,14 @@
+Package: free-cnc-simulator-wine
+Version: 4.53
+Installed-Size: 5564
+Maintainer: bulldog <crash.eddie123@gmail.com>
+Section: utils
+Architecture: all
+Priority: optional
+Depends: wine | wine64
+Homepage: http://cncsimulator.info
+Description: Simulador de máquinas de comando numérico computadorizado
+ Simulador de máquinas fresadoras e tornos CNC em ambiente 3D com editor de códigos G.
+ .
+ Simulator of milling machines and CNC lathes in 3D environment with G code editor.
+

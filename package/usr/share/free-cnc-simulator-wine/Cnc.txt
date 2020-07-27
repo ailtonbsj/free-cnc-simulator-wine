@@ -1,0 +1,3090 @@
+&(2&8/86£
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+éNDRA INTE I MASTER SENASTE VERSIONEN LIGGER I SOURCE!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Senast Ñndrad:  Fre 10-September-1999
+
+Programtexter
+
+      FôNSTER
+
+T1 "FrÑsdjup",
+      "Milling depth",
+      "FrÑstiefe",
+      "Fresedybde",
+      "ProfonditÖ di lavoro"
+
+T2 "OK",
+      "OK",
+      "OK",
+      "OK",
+      "OK"
+T3 "FrÑsinstÑllningar",
+      "Milling options",
+      "FrÑseinstellungen",
+      "Fresinnstilling",
+      "Opzioni di Fresatura"
+T4 "LÑngd X:",
+      "Length X",
+      "LÑnge X",
+      "Lengde X",
+      "Lunghezza X"
+
+T5 "Bredd Y:",
+      "Width Y",
+      "Breite Y",
+      "Bredde Y",
+      "L_arghezza Y"
+T6 "Hîjd Z:",
+      "Height Z",
+      "Hîhe Z",
+      "Hõyde Z",
+      "Altezza Z"
+T7 "Avbryt",
+      "Cancel",
+      "Abbrechen",
+      "Avbryt",
+      "Annulla"
+T8 "FrÑsdjup",
+      "depth",
+      "FrÑstiefe",
+      "Fresedybde",
+      "ProfonditÖ"
+
+T9 "SvarvinstÑllningar",
+      "Lathe options",
+      "Dreheinstellungen",
+      "Dreieinnstillinger",
+      "Opzioni Tornitura"
+
+T10 "Radieprogrammering",
+      "Radius coordinates",
+      "Radiusprogrammierung",
+      "Radiusprogrammering"
+T11 "Diameterprogrammering",
+      "Diameter coordinates",
+      "Durchmesserprogrammierung",
+      "Diameterprogrammering",
+      "Misure _Radiali"
+
+T12 "LÑngd   Z:",
+      "Length   Z",
+      "LÑnge    Z",
+      "Lengde   Z",
+      "Lunghezza Z"
+
+T13 "Diameter X:",
+      "Diameter X",
+      "Durchmesser X",
+      "Diameter X",
+      "_Diametro X"
+
+T14 "Innerdiameter:",
+      "Inner diameter",
+      "Innendurchmesser",
+      "Innerdiameter",
+      "Diametro _Interno"
+T15   "Antal mellanslag efter blocknummer:",
+      "Amount of spaces after block no.",
+      "???T15",
+      "Antal mellanslag etter blokknummer:",
+      "Amount of spaces after block no."
+
+T16 "Start nummer:",
+      "Startnumber",
+      "Startnummer",
+      "Startnummer",
+      "Numero Iniziale"
+
+T17 "Stega upp med:",
+      "Increase value",
+      "Schrittweite",
+      "GÜ opp med",
+      "Incremento"
+T18 "Buffertlista",
+      "Buffer list",
+      "???T18",
+      "Buffer liste",
+      "Buffer list"
+
+T19 "Kontrollera/korrigera",
+      "Check NC-program",
+      "Kontrollieren/Korrigieren",
+      "Kontrollere/korrigere",
+      "Controllo programma CNC"
+
+T20 "Specialtecken som skall tillÜtas:",
+      "Special legal characters",
+      "Erlaubte Spezialzeichen",
+      "Spesialtegn som kan tillates",
+      "Caratteri speciali permessi"
+
+T21 "Vanliga tecken som ej skall tillÜtas:",
+      "Usual illegal characters",
+      "Unerlaubte Spezialzeichen",
+      "Vanlige tegn som ikke skal tillates",
+      "Caratteri speciali non permessi"
+T22 "Korrigera smÜ bokstÑver",
+      "Change to uppercase",
+      "Berichtige kleine Buchstaben",
+      "Korrigere smÜ bokstaver",
+      "Conversione in maiuscole"
+
+T23 "Separera iso-koder med mellanslag",
+      "Put space between ISO codes",
+      "Teilen ISO-Code mit Leertaste",
+      "Separere iso-koder med mellomrom",
+      "Spaziare i codici ISO"
+
+T24 "",
+      "",
+      "",
+      "",
+      ""
+T25 "Syntaxkontroll",
+      "Syntax control",
+      "SyntaxprÅfung",
+      "Syntaxkontroll",
+      "Controllo sintattico"
+
+T26 "Kontroll av spindelstart fîre G01, G02, G03.",
+      "Check spindlestart before G01, G02, G03.",
+      "Kontrolle des Spindelstarts vor G01,G02,G03",
+      "Kontroll av spindelstart foran G01,G02,G03.",
+      "Controllo avviamento mandrino prima di G01, G02, G03."
+
+T27 "Kontroll av matning (F) fîre G01, G02, G03.",
+      "Check feed (F) before G01, G02, G03",
+      "Kontrolle des Vorschub vor G01,G02,G03",
+      "Kontroll av matning (F) foran G01,G02,G03.",
+      "Controllo avanzamento (F) prima di G01, G02, G03."
+
+T28 "Kontroll av spindelhastighet (S) fîre G01, G02, G03.",
+      "Check spindlespeed (S) before G01, G02, G03.",
+      "Kontrolle der Drehzahl(S) vor G01,G02,G03",
+      "Kontroll av spindelhastighet (S) foran G01,G02,G03.",
+      "Controllo velocitÖ mandrino (S) prima di G01, G02, G03."
+
+T29 "Kontroll av M30/M02.",
+      "Check M30/M02",
+      "Kontrolle des M30/M02",
+      "Kontroll av M30/M02.",
+      "Controllo M30/M02"
+T30 "Obligatorisk kod 1",
+      "Necessary code 1",
+      "Obligator. Code 1",
+      "Obligatorisk kode 1",
+      "Codice obbligatorio 1"
+
+T31 "Obligatorisk kod 2",
+      "          code 2",
+      "           Code 2",
+      "Obligatorisk kode 2",
+      "Codice obbligatorio 2"
+
+T32 "Obligatorisk kod 3",
+      "          code 3",
+      "           Code 3",
+      "Obligatorisk kode 3",
+      "Codice obbligatorio 3"
+
+T33 "Obligatorisk kod 4",
+      "          code 4",
+      "           Code 4",
+      "Obligatorisk kode 4",
+      "Codice obbligatorio 4"
+
+T34 "Syntaxkontroll pÜ",
+      "Syntax check on",
+      "SyntaxprÅfung aktiviert",
+      "Syntaxkontroll pÜ",
+      "COntrollo sintattico attivo"
+
+T35 "SimuleringsinstÑllningar",
+      "Simulation options",
+      "Einstellungen Simulation",
+      "Simulere innstillinger",
+      "Opzioni simulazione"
+T36 "Kraschkontroll",
+      "Crash check",
+      "Crash - PrÅfung",
+      "Crash kontroll ",
+      "Controllo collisioni"
+T37 "Noggrannhet radie-slutpunkt",
+      "Radius endpoint tolerance",
+      "Exakter Radienschlu·punkt",
+      "Nõyaktig radie sluttpunkt",
+      "Radius endpoint tolerance"
+T38 "TidskontrollinstÑllningar",
+      "Timecontrol options",
+      "Zeitkontrolle Einstellungen",
+      "Tidskontroll innstillinger",
+      "Opzioni calcolo tempi"
+T39 "Snabbmatningshastighet (mm/min):",
+      "Rapid speed (mm/min)",
+      "Geschwindigkeit Eilgang (mm/min)",
+      "Ilmatninghastighet (mm/min)",
+      "VelocitÖ _Rapido"
+T40 "Tid fîr verktygsbyte (spÜn till spÜn) (s):",
+      "Toolchanging time (s)",
+      "Werkzeugwechselzeit (Span zu Span) (s)",
+      "Tid for verktõybytte (spon til spon) (s)",
+      "Tempo di Cambio Utensile (s)"
+T41 "",
+      "",
+      "",
+      "",
+      ""
+T42 "UppspÑnningstid (s):",
+      "Mounting time (s)",
+      "Teilwechselzeit (s)",
+      "Oppspenningstid (s)",
+      "Attrezzaggio"
+T43 "",
+      "",
+      "",
+      "",
+      ""
+T44 "Tidskontroll pÜ",
+      "Timecheck on",
+      "Zeitkontrolle ein",
+      "Tidskontroll pÜ",
+      "Calcolo tempo"
+T45 "InstÑllningar fîr",
+      "Options for",
+      "Einstellungen fÅr",
+      "Innstillinger for",
+      "Opzioni per"
+
+T46 "mm/min",
+      "mm/min",
+      "mm/min",
+      "mm/min",
+      "mm/min"
+T47 "min",
+      "min",
+      "min",
+      "min",
+      "min"
+
+T48 "Nollpunktsregister",
+      "Nullpoint register",
+      "Nullpunktsregister",
+      "Nullpunktsregister",
+      "Origine"
+T49 "Kod",
+      "Code",
+      "Code",
+      "Kode",
+      "Codice"
+T50 "FrÑsverktyg",
+      "Milling tool",
+      "FrÑserwerkzeug",
+      "Freseverktõy",
+      "Utensili"
+
+T51 "",
+      "",
+      "",
+      "",
+      ""
+T52 "KommunikationsinstÑllningar",
+      "Communication options",
+      "Kommunikationseinstellungen",
+      "Kommunikasjonsinnstillinger",
+      "Opzioni Comunicazione"
+
+T53 "",
+      "",
+      "",
+      "",
+      ""
+T54 "Svarvning",
+      "Lathe",
+      "Drehen",
+      "Dreiing",
+      "Tornio"
+
+T55 "FrÑsning",
+      "Milling",
+      "FrÑsen",
+      "Fresing",
+      "Fresa"
+
+T56 "Lîsenord:",
+      "Password",
+      "Passwort",
+      "Passord",
+      "Password"
+
+T57 "Sîk",
+      "Search",
+      "Suchen",
+      "Sõk",
+      "Trova"
+
+T58 "Sîk & Byt ut",
+      "Search & Replace",
+      "Suchen und éndern",
+      "Sõk & Erstatt",
+      "Sostituisci"
+
+T59 "Sîk efter",
+      "Find",
+      "Suchen",
+      "Sõk",
+      "Trova ancora"
+
+T60 "ErsÑtt med",
+      "Replace",
+      "Ersetzen",
+      "Erstatt",
+      "Sostituisci"
+
+T61 "",
+      "",
+      "",
+      "",
+      ""
+T62 "",
+      "",
+      "",
+      "",
+      ""
+T63 "",
+      "",
+      "",
+      "",
+      ""
+T64 "",
+      "",
+      "",
+      "",
+      ""
+T65 "",
+      "",
+      "",
+      "",
+      ""
+T66 "Vy-instÑllningar FrÑs",
+      "View options milling",
+      "Blickwinkel Einstellungen",
+      "Vis innstillinger fres",
+      "Opzioni Fresatura"
+
+T67 "",
+      "",
+      "",
+      "",
+      ""
+T68 "",
+      "",
+      "",
+      "",
+      ""
+T69 "FilinstÑllningar",
+      "File options",
+      "Dateieintstellungen",
+      "Fil innstillinger",
+      "Opzioni file"
+T70 "Ladda alltid detaljinstÑllningar",
+      "Always load workpiece options",
+      "Immer Einzeleinstellungen laden",
+      "Last alltid detalj-innstillinger",
+      "Apri sempre dati materiale"
+
+T71 "Spara alltid detaljinstÑllningar",
+      "Always save workpiece options",
+      "Immer Einzeleinstellungen speichern",
+      "Spar alltid detalj-innstillinger",
+      "Salva sempre dati materiale"
+T72 "Visa filer av typen:",
+      "Show files of type",
+      "Extension anzeigen",
+      "Vis filer av typen",
+      "Mostra file per tipo"
+T73 "Ja",
+      "Yes",
+      "Ja",
+      "Ja",
+      "Si"
+
+T74 "Nej",
+      "No",
+      "Nein",
+      "Nei",
+      "No"
+
+T75 "mm",
+      "mm",
+      "mm",
+      "mm",
+      "mm"
+T76 "tum",
+      "inch",
+      "inch",
+      "tomme",
+      "pollici"
+
+T77 "mm / tum",
+      "mm / inch",
+      "mm / inch",
+      "mm / tomme",
+      "mm / pollice"
+
+T78 "Lagra med efternamn:",
+      "Save with extention",
+      "Speichern mit Extension",
+      "Lagre med etternavn",
+      "Salva con estensione"
+
+T79 "Tolkfil frÑs:",
+      "Tokenfile milling",
+      "öbersetzung FrÑs-NC-Datei",
+      "Tolkfil fres",
+      "File codici Fresa"
+
+T80 "Tolkfil svarv:",
+      "Tokenfile lathe",
+      "öbersetzung Dreh-NC-Datei",
+      "Tolkfil drei",
+      "File codici tornio"
+
+T81 "SîkvÑg nc-filer:",
+      "Path NC-files",
+      "Suchpfad",
+      "Sõking nc-filer",
+      "Percorso programmi CNC"
+
+T82 "SîkvÑg filer",
+      "Path files",
+      "Suchpfad fÅr Dateien",
+      "Sõking filer",
+      "Percorso file"
+
+T83 "Tolkfil frÑs",
+      "Tokenfile milling",
+      "Suchpfad FrÑsprÅfung",
+      "Fresetolk",
+      "File codici Fresa"
+
+T84 "Tolkfil svarv",
+      "Tokenfile lathe",
+      "Suchpfad DrehprÅfung",
+      "Dreietolk",
+      "File codici Tornio"
+
+T85 "SîkvÑg finns ej, ska den skapas?",
+      "Path not found. Create ?",
+      "Suchpfad nicht gefunden. Neu erstellen ?",
+      "Sõke finnes ikke, skal den lages?",
+      "Percorso non trovato. Crearlo?"
+
+T86 "",
+      "",
+      "",
+      "",
+      ""
+T87 "",
+      "",
+      "",
+      "",
+      ""
+T88 "",
+      "",
+      "",
+      "",
+      ""
+T89 "",
+      "",
+      "",
+      "",
+      ""
+T90 "",
+      "",
+      "",
+      "",
+      ""
+T91 "",
+      "",
+      "",
+      "",
+      ""
+T92 "",
+      "",
+      "",
+      "",
+      ""
+T93 "",
+      "",
+      "",
+      "",
+      ""
+T94 "",
+      "",
+      "",
+      "",
+      ""
+T95 "",
+      "",
+      "",
+      "",
+      ""
+T96 "",
+      "",
+      "",
+      "",
+      ""
+T97 "",
+      "",
+      "",
+      "",
+      ""
+T98 "",
+      "",
+      "",
+      "",
+      ""
+T99 "Utskrift",
+      "Printout",
+      "Drucken",
+      "Utskrift"
+T100 "",
+      "",
+      "",
+      "",
+      ""
+T101 "Skriv ut",
+      "Printer",
+      "Ausgeben",
+      "Skriv ut",
+      "Stampa"
+
+T102 "Endast program",
+      "Only NC program",
+      "Nur Programm drucken",
+      "Bare program",
+      "Solo programma CNC"
+T103 "Visa pÜ skÑrm",
+      "Show on screen",
+      "Ausgabe am Bildschirm",
+      "Vise pÜ skjerm",
+      "Su schermo"
+
+T104 "Skriva ut program",
+      "Print program",
+      "Ausgabe des Programms",
+      "Skrive ut program",
+      "Stampa programma"
+T105 "Filnamn",
+      "Filename",
+      "Dateiname",
+      "Filnavn",
+      "Nome File"
+T106 "Operatîr",
+      "User",
+      "Anwender",
+      "Operatõr",
+      "Utente"
+
+T107 "Datum",
+      "Date",
+      "Datum",
+      "Dato",
+      "Data"
+T108 "",
+      "",
+      "",
+      "",
+      ""
+T109 "",
+      "",
+      "",
+      "",
+      ""
+T110 "",
+      "",
+      "",
+      "",
+      ""
+T111 "",
+      "",
+      "",
+      "",
+      ""
+T112 "",
+      "",
+      "",
+      "",
+      ""
+T113 "",
+      "",
+      "",
+      "",
+      ""
+T114 "",
+      "",
+      "",
+      "",
+      ""
+T115 "",
+      "",
+      "",
+      "",
+      ""
+T116 "",
+      "",
+      "",
+      "",
+      ""
+T117 "Simuleringshastighet",
+      "Simulation speed",
+      "Simulationsgeschwindigkeit",
+      "Simulerings Hastighet",
+      "VelocitÖ simulazione"
+
+T118  "",
+      "",
+      "",
+      "",
+      ""
+T119 "X",
+      "X",
+      "X",
+      "X",
+      "X"
+T120 "Y",
+      "Y",
+      "Y",
+      "Y",
+      "Y"
+T121 "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z"
+T122 "Avst.",
+      "Zoom",
+      "Zoom",
+      "Avst.",
+      "Zoom"
+
+T123 "Radera %s?",
+      "Delete %s?",
+      "Lîschen %s?",
+      "Fjerne %s?",
+      "Cancellare %s ?"
+
+T124 "Radera filer",
+      "Delete files",
+      "Lîschen Datei",
+      "Fjerne Filer",
+      "Cancellare i file"
+
+T125 "StÑng",
+      "Delete",
+      "Lîschen",
+      "Fjerne",
+      "Delete"
+T126 "Formler",
+      "Expression",
+      "Formel",
+      "Formler",
+      "Espressione"
+
+T127 "Skriv in berÑkning",
+      "Enter your calculation",
+      "Ausgabe der Berechnung",
+      "Skriv inn beregning",
+      "Inserire il calcolo"
+
+T128 "Felaktig berÑkning!",
+      "Illegal expression",
+      "Berechnung fehlerhaft!",
+      "Feil beregning!",
+      "Espressione non corretta!"
+
+T129 "Editor inst.",
+      "Editor options",
+      "Editor Einst.",
+      "Editor inst.",
+      "Opzioni Editor"
+
+T130 "Visa radslut",
+      "Show newline",
+      "Zeilenende (J/N)",
+      "Vise linjeslutt",
+      "Mostra carattere 'a capo'"
+
+T131 "Se 3D-frÑs",
+      "Show 3D milltool",
+      "Anzeige 3D",
+      "Se 3D fres",
+      "Mostra percorso utensile 3D"
+
+T132 "InstÑllningsfil : %s",
+      "Optionfile      : %s",
+      "Dateieinstellungen : %s",
+      "Innstillingsfil : %s",
+      "File Opzioni  : %s"
+
+T133 "",
+      "",
+      "",
+      "",
+      ""
+T134 "Menyfil         : %s",
+      "Menufile        : %s",
+      "MenÅdatei       : %s",
+      "Menyfil         : %s",
+      "File Menu     : %s"
+
+T135 "Bit: LÑngd %.3f  Dia. %.3f  Innerdia. %.3f",
+      "Piece: Len. %.3f  Dia. %.3f Innerdia. %.3f",
+      "Bit: LÑnge %.3f Durchmesser %.3f Innenradius %.3f",
+      "Bit: Lengde %.3f  Dia. %.3f  Innerdia. %.3f",
+      "Grezzo: Lungh. %.3f D. ext. %.3f D. int. %.3f"
+
+T136 "Bit: LÑngd %.3f  Bredd %.3f  Hîjd %.3f",
+      "Piece: Len. %.3f Width %.3f Height %.3f",
+      "Bit: LÑnge %.3f  Breite %.3f Hîhe %.3f",
+      "Bit: Lengde %.3f Bredde %.3f Hõyde %.3f",
+      "Grezzo: Lungh. %.3f Largh. %.3f Alt. %.3f"
+T137 "Editor",
+      "Editor",
+      "Editor",
+      "Editor",
+      "Editor"
+T138 "Antal buffrar    : %d",
+      "Nr of buffers    : %d",
+      "Anzahl Buffer    : %d",
+      "Antall buffere   : %d",
+      "Nr di buffer     : %d"
+
+T139 "Nuvarande buffer : %s",
+      "Current buffer   : %s",
+      "GewÑhlte Buffer  : %s",
+      "NÜvërende buffer : %s",
+      "Buffer corrente  : %s"
+
+T140 "Rad              : %d",
+      "Row              : %d",
+      "Anzahl Zeilen    : %d",
+      "Linje            : %d"
+      "Riga             : %d"
+
+T141 "Kolumn           : %d",
+      "Column           : %d",
+      "Anzahl Reihe     : %d",
+      "Kolonne          : %d",
+      "Colonna"         : %d"
+
+T142 "Antal rader      : %d",
+      "Nr of rows       : %d",
+      "GewÑhlte Zeile   : %d",
+      "Antall linjer    : %d",
+      "Nr righe         " %d"
+
+T143 "Filstorlek       : %d",
+      "File size        : %d",
+      "Dateigrî·e       : %d",
+      "Filstõrrelse     : %d",
+      "Dimensioni file  : %d"
+T144 "HjÑlpfil        : %s",
+      "Helpfile        : %s",
+      "Hilfe           : %s",
+      "Hjelpefil:      : %s",
+      "File guida      : %s"
+
+T145 "Horizontal",
+      "Horizontal",
+      "Horizontal",
+      "Horisontal",
+      "Orizzontale"
+
+T146 "Vertikal",
+      "Vertical",
+      "Vertikal",
+      "Vertikal",
+      "Verticale"
+
+T147 "ôver/VÑnster",
+      "Top/Left",
+      "Oben/Links",
+      "Over/Venstre",
+      "Alto/Sinistra"
+
+T148 "Under/Hîger",
+      "Bottom/Right",
+      "Unten/Rechts",
+      "Under/Hõyre",
+      "Basso/Destra"
+
+T149 "Svarv",
+      "Lathe",
+      "Drehen",
+      "Dreie",
+      "Tornio"
+
+T150 "Svarvning",
+      "Lathe",
+      "Drehen",
+      "Dreiing",
+      "Tornio"
+
+T151 "Verktyg",
+      "Tool",
+      "Werkzeug",
+      "Verktõy",
+      "Utensile"
+
+T152 "Skalfaktor:",
+      "Scale factor",
+      "Ma·stab",
+      "Skaler.faktor",
+      "Fattore di scala"
+
+T153 "Kommentartecken ",
+      "Commentchar",
+      "Kommentar",
+      "Kommentartegn",
+      "Commento"
+
+T154 "Origo X",
+      "Origo X",
+      "Ursprung X",
+      "Origo X",
+      "Origine X"
+
+T155 "Origo Y",
+      "Origo Y",
+      "Ursprung Y",
+      "Origo Y",
+      "Origine Y"
+
+T156 "Ritfil",
+      "Drawing",
+      "Zeichnung",
+      "Tegnefil",
+      "Disegno"
+
+T157 "VÑlj ritning",
+      "Choose drawing",
+      "Zeichnung wÑhlen",
+      "Velg tegning",
+      "Scelta disegno"
+T158 "",
+      "",
+      "",
+      "",
+      ""
+T159 "Start",
+      "Start",
+      "Start",
+      "Start",
+      "Start"
+T160 "Steg",
+      "Step",
+      "Schrittweite",
+      "Trinnvis",
+      "Avvio"
+
+T161 "Blocknumrering",
+      "Blocknumber",
+      "Zeilennummer",
+      "Blokknummerering",
+      "Numero di blocco"
+
+T162 "Verktygsfiler|*.tol||",
+      "Toolfiles|*.tol||",
+      "Werkzeugdatei|*.tol||",
+      "Verktõysfil|*.tol||",
+      "File utensili|*.tlk||"
+
+T163 "Nytt namn",
+      "New name",
+      "Neuer Name",
+      "Nytt navn",
+      "Nuovo nome"
+
+T164 "Ja",
+      "Yes",
+      "Ja",
+      "Ja",
+      "Si"
+
+T165 "Nej",
+      "No",
+      "Nein",
+      "Nei",
+      "No"
+
+
+T166 "Annat namn",
+      "Other name",
+      "Neuen Namen",
+      "Annet navn",
+      "Altro nome"
+
+T167 "Spara som %s?",
+      "Save as %s?",
+      "Speichern als %s",
+      "Lagre som %s?",
+      "Salva come %s ?"
+
+
+T168 "Nollpunkt vid Ñndplan",
+     "Origin at end face",
+     "Nullp. vom WerkstÅckende",
+     "Nullpunkt ved endeplan",
+     "Origine sul pezzo"
+
+
+T169      "Version %s", "Version %s","Version %s","Version %s","Versione %s"
+T170      "CncSimulator", "CncSimulator","CncSimulator","CncSimulator","Simulatore CNC"
+T171      "Programmet tillhîr", "Licens belongs to","Lizenz eingetragen","Programmet tilhõrer:","Conceso in licenza a:"
+T172             "All vidarekopiering fîrbjuden","All rights reserved","Jegliches Kopieren ist verboten.","All viderekopiering forbudt!","Tutti i diritti sono riservati"
+T173       "Kunde inte starta program","Could not start the program","???T173","Kan ikke starte program","Impossibile avviare il programma"
+T174             "Kunde inte spara program","Could not save the program","???T174","Kan ikke lagre program","Could not save the program"
+T175             "HÜrdvarulÜs ej installerat!\n","The hardware lock is not installed","???T175","HardvarelÜs ikke installert!\n","La chiave di protezione non ä installata!\n"
+T176             "HÜrdvarulÜs felkodat!\n","The hardware lock is coded incorrect","???T176","HardvarelÜs feilkodet!\n","La chiave di protezione non ä valida!\n"
+T177             "HÜrdvarulÜs ej kodat fîr CncSimulator!\n","The hardware lock is not coded for CncSimulator","???T177","HardvarelÜs ikke kodet for CNC-Simulatoren!\n","La chiave di protezione non ä abilitata!\n"
+T178             "Exe-filen Ñr modifierad!\n","The Exe-file is modified\n","???T178","Exefilen er modifisert!\n","Il file eseguibili ä stato modificato!\n"
+T179             "CncSimulator ej mÑrkt! Kontakta MicroTech!\n","CncSimulator is not coded, please contact your dealer.","???T179","CNC-Simulatoren er ikke merket! Kontakt Kõhn Tech!\n","Il simulatore non ä abilitato! Contattare il servizio di assistenza tecnica"
+T180             "Startar CamModulen...\n","Loading CamModul","???T180","Vennligst vent.... Starter CamModulen...\n","Avvio CamModul..."
+T181             "Startar program...\n","Loading program","???T181","Starter Program...\n","Avvio Programma..."
+
+T182      "Observera att detta Ñr en demoversion",
+         "This is a demonstration version",
+         "???T182",
+         "Dette er en demo versjon",
+         "Questa ä una versione dimostrativa"
+
+T183      "Funktionen "spara" Ñr lÜst.",
+         "The function SAVE is locked",
+         "???T183",
+         "Funksjonen LAGRE er lÜst",
+         "Non ä possibile salvare i programmi"
+
+T184      "Decimaler visas endast med",
+         "decimals is shown by",
+         "???T184",
+         "Desimaler er vist med",
+         "le cifre decimali sono sostituite da"
+
+T185      "frÜgetecken.",
+         "question marks.",
+         "???T185",
+         "spõrsmÜlstegn",
+         "question marks."
+T186      "Detta Ñr en demoversion.",
+         "This is a demoversion",
+         "???T186",
+         "Dette er en demo versjon",
+         "Questa ä una versione dimostrativa"
+
+T187      "Funktionen "spara" Ñr lÜst",
+         "The function SAVE is locked",
+         "???T187",
+         "Funksjonen LAGRE er lÜst",
+         "Non ä possibile salvare i programmi"
+
+
+T188      "Nollpunkt X:","Nullpoint X","Nullpunkt X","Nullpunkt X","Origine X"
+T189      "Nollpunkt Y:","Nullpoint Y","Nullpunkt Y","Nullpunkt Y","Origine Y"
+T190            "FrÜga vid avstickning?","Ask when cutting-off?","???<T190>","SpõrsmÜl ved avstikking?","Confermare le lavorazioni?"
+T191      "Av","OFF","Aus","Av","OFF"
+T192      "Kommentar","Comment","Kommentar","Kommentar","Commento"
+T193      "Kontrollera programnummer","Check program no.","???<T193>","Kontrollere prognr","Controllo programma n."
+T194            "Visa radnummer","Line numbers","???<T194>","Vise linjenummer","Numeri linea"
+T195            "FrÑstolk:","Interpreter mill","???<T195>","Tolk fres","Interprete Fresa"
+T196            "Svarvtolk:","Interpreter lathe","???<196>","Tolk drei","Interprete Tornio"
+T197            "Cykelprefix frÑs:","Cycle prefix mill","???<T197>","Syklus prefix fres","Prefisso cicli Fresa"
+T198            "Cykelprefix svarv:","Cycle prefix lathe","???<T198>","Syklus prefix drei","Prefisso cicli Tornio"
+T199      "Block","Block","Block","Block","Blocco"
+T200            "Blocksimuleringssteg:","Block simulation step","???<T200>","Blokksimuleringsstepp","Simulazione a passo singolo"
+T201            "Blocksimulering","Block simulation","???<T201>","Blokksimulering","Simulazione blocchi"
+T202            "SîkvÑg svarvverktyg","Path lathe tools","???<T201>","Sõkevei dreieverktõy","Percorso utensili tornio"
+
+
+T203  "Mer",
+      "More",
+      "???T203",
+      "Mer",
+      "Ancora"
+
+
+T204 "Av",
+      "Off",
+      "Aus",
+      "Av",
+      "Off"
+
+
+T205 "PÜ",
+      "On",
+      "Ein",
+      "PÜ",
+      "On"
+
+
+T206 "",
+      "",
+      "",
+      "",
+      ""
+
+T207    "SîkvÑg svarvverktyg","Path lathe tools","???T207","Sõkevei dreieverktõy","Percorso utensili Tornio"
+
+T208 "Automatisk blocknumrering",
+      "Automatic linenumbers",
+      "Automatische Zeilennummerierung",
+      "Automatisk blokknummerering",
+      "Numerazione automatica"
+
+
+T209 "Simulera",
+      "Simulate",
+      "Simulieren",
+      "Simulere",
+      "Simula"
+
+
+T210 "Programstatistik",
+      "Program statistics",
+      "Programmstatistik",
+      "Programstatistikk",
+      "Statistiche programma"
+
+
+T211 "Antal block:",
+      "Nr of lines",
+      "Anzahl Zeilen",
+      "Antall blokk",
+      "Nr linee"
+
+T212 "Antal G-koder",
+      "Nr of G codes",
+      "Anzahl G Codes",
+      "Antall G koder",
+      "Nr codici G"
+
+T213 "Antal M-koder",
+      "Nr of M codes",
+      "Anzahl M Codes",
+      "Antall M koder",
+      "Nr codici M"
+
+T214 "Minsta X-vÑrde",
+      "Minimum X value",
+      "Kleinster X-Wert",
+      "Minste X verdi",
+      "Valore minimo X"
+
+T215 "Minsta Y-vÑrde",
+      "Minimun Y value",
+      "Kleinster Y-Wert",
+      "Minste Y verdi",
+      "Valore minimo Y"
+
+T216 "Minsta Z-vÑrde",
+      "Minimun Z value",
+      "Kleinster Z-Wert",
+      "Minste Z verdi",
+      "Valore minimo Z"
+
+T217 "Antal tecken:",
+      "Nr of characters",
+      "Anzahl Zeichen",
+      "Antall tegn",
+      "Nr caratteri"
+
+T218 "Antal verktygsbyten:",
+      "Nr of toolchanges",
+      "Anzahl Werkzeugw.",
+      "Antall verktõybytte",
+      "Nr cambio utensili"
+
+T219 "Stîrsta X-vÑrde:",
+      "Maximum X value",
+      "Grî·ter X-Wert",
+      "Stõrste X verdi",
+      "Massimo valore X"
+
+T220 "Stîrsta Y-vÑrde:",
+      "Maximum Y value",
+      "Grî·ter Y-Wert",
+      "Stõrste Y verdi",
+      "Massimo valore Y"
+
+T221 "Stîrsta Z-vÑrde:",
+      "Maximum Z value",
+      "Grî·ter Z-Wert",
+      "Stõrste Z verdi",
+      "Massimo valore Z"
+
+T222 "éndra lîsenord",
+     "Change password",
+     "énderung Passwort",
+     "Endre passord",
+     "Cambia Password"
+
+T223 "Nytt lîsenord:",
+     "New password",
+     "???T223",
+     "Nytt passord",
+     "Nuova Password"
+
+T224 "BekrÑfta lîsenord:",
+     "Confirm password",
+     "???T224",
+     "Bekrefte passord",
+     "Conferma Password
+
+T225 "Retardationstid (s):",
+     "Retardation time (s)",
+     "???T225",
+     "Retardationstid (s):",
+     "Ritardo (s)"
+
+T226 "Logga in",
+     "Login",
+     "???T226",
+     "Login",
+     "Login"
+
+T227 "Omnumrera",
+      "Renumber",
+      "Umnummerieren",
+      "Omnummerere",
+      "Rinumerazione"
+
+T228 "BenÑmning:",
+      "Name",
+      "Bezeichnung",
+      "Benevelse",
+      "Nome"
+
+T229 "Matning:",
+      "Feed",
+      "Vorschub",
+      "Mating",
+      "Feed"
+
+T230 "Spindelhastighet:",
+      "Spindlespeed",
+      "Spindelgeschwindigkeit",
+      "Spindelhastighet",
+      "Velocit‡ mandrino"
+
+T231 "Nosradie:",
+      "Nose radius",
+      "WerkstÅckradius",
+      "Neseradius",
+      "Raggio placchetta"
+
+T232 "Nosradiecentrum-X:",
+      "Nose radius center X",
+      "WerkstÅckradius-Zentrum X",
+      "Neseradiens sentrum X",
+      "Centro placchetta X"
+
+T233 "Nosradiecentrum-Y:",
+      "Nose radius center Y",
+      "WerkstÅckradius-Zentrum Y",
+      "Neseradiens sentrum Y",
+      "Centro placchetta Y"
+
+T234 "Verktygsnummer:",
+      "Tool number",
+      "Werkzeugnummer",
+      "Verktõynummer",
+      "Nr Utensile"
+
+T235 "Kopia",
+      "Copy",
+      "Kopieren",
+      "Kopiere",
+      "Copia"
+
+T236 "Radera",
+      "Delete",
+      "Lîschen",
+      "Fjerne",
+      "Cancella"
+
+T237 "Klistra in",
+     "Paste",
+     "EinfÅgen",
+     "Lime inn",
+     "Incolla"
+
+T238 "Spegla X",
+     "Mirror X",
+     "???T238",
+     "Speilvende X",
+     "SpecularitÖ X"
+
+T239 "Spegla Y",
+     "Mirror Y",
+     "???T239",
+     "Speilvende Y",
+     "SpecularitÖ Y"
+
+T240 "Dia.",
+      "Dia.",
+      "Durchm.",
+      "Dia.",
+      "Dia."
+
+T241 "LÑngd",
+      "Length",
+      "LÑnge",
+      "Lenge",
+      "Lunghezza"
+
+T242 "Matn.",
+      "Feed",
+      "Drezahl",
+      "Mating",
+      "Feed"
+
+T243 "Spindh.",
+      "Spindle",
+      "Vorschub",
+      "Spindh.",
+      "Mandrino"
+
+T244 "Spara program?",
+      "Save program?",
+      "Datei speichern?",
+      "Lagre program?",
+      "Salva programma?"
+
+T245 "nc-filer|*.nc||",
+        "NC Files|*.nc||",
+        "???T245",
+        "nc-filer|*.nc||",
+        "File CNC|*.nc||",
+
+T246 "Tolk|*.exe||",
+     "Interpreter|*.nc||",
+     "???T246",
+     "Tolk|*.exe||",
+     "Interprete|*.nc||"
+
+T247 "Tolkfiler|*.tlk||",
+    "Token Files|*.tlk||",
+    "???T247",
+    "Tolkfiler|*.tlk||",
+    "File comandi|*.tlk||",
+
+T248 "Rad:00000 Kolumn:0000",
+     "Line:00000 Column:0000",
+     "???T248",
+     "Rad:00000 Kolumn:0000",
+     "Linea:00000 Colonna:0000"
+
+T249 "Rad:%d Kolumn:%d",
+     "Line:%d Column:%d",
+     "???T249%d%d",
+     "Rad:%d Kolumn:%d",
+     "Linea:%d Colonna %d"
+
+T250 "Lîsenorden mÜste stÑmma îverens!",
+     "The passwords must be identical!",
+     "???T250",
+     "Passordene mÜ vëre identiske",
+     "Le password devono essere identiche!"
+
+T251 "Det gick inte att Ñndra lîsenordet. Kontrollera skrivrÑttigheterna i katalogen %s",
+     "The password has not been changed. Check file permissions in %s",
+     "???T251 %s",
+     "Passordet er ikke blitt forandret. Kontrollere skriverrettighetne i %s",
+     "La password non ä stata cambiata. Controllare autorizzazioni in %s"
+
+
+T252 "Avsluta kommunikationen fîrst!",
+     "Finish your communication first!",
+     "???T252",
+     "Avslutt kommunikasjonen fõrst",
+     "Concludere prima la comunicazione in corso!"
+
+T253 "Filen hittades ej!",
+     "File not found!",
+     "???T253",
+     "Filen er ikke funnet",
+     "File non trovato!"
+
+T254 "Slut pÜ minne i CNCEditView::SaveFile",
+     "Out of memory in CNCEditView::SaveFile",
+     "???T254",
+     "Slut pÜ minne i CNCEditView::SaveFile",
+     "Memoria insufficente in CNCEditView:SaveFile"
+
+T255 "Slut pÜ minne!",
+     "Out of memory!",
+     "???T255",
+     "Slut pÜ minne",
+     "Memoria esaurita!"
+
+T256 "VÑrde saknas.",
+      "Value missing",
+      "Wert fehlt",
+      "Verdi mangler",
+      "Valore mancante"
+
+T257 "OtillÜtet tecken '%c'",
+      "Illegal character '%c'",
+      "Reserviertes Zeichen '%c'",
+      "Ikke tillatt tegn '%c'",
+      "Carattere non valido '%c'"
+
+T258 "Verktyg %d",
+      "Tool %d",
+      "Werkzeug %d",
+      "Verktõy %d",
+      "Utensile %d"
+
+T259 "Spara verktyg?",
+      "Save tools?",
+      "Werkzeug speichern?",
+      "Lagre verktõy?",
+      "Salvare utensili?"
+
+T260 "Vill du ladda filen frÜn disk? (Eventuella Ñndringar gÜr fîrlorade)",
+     "Do you want to reload the program from disk (You will lose your changes)",
+     "???T260",
+     "Vil du hente filen fra disketten en gang til? (Endringer vil ikke bli lagred)",
+     "Si desidera veramente ricaricare il programma dal disco? (Le modifiche saranno perse)"
+
+T261 "Simulering - vÑnta...",
+     "Simulating - wait...",
+     "???T261",
+     "Simulering - vent",
+     "Simulazione in corso - attendere..."
+
+T262 "Kan inte skapa temporÑrfil",
+     "Cannot create temporary file",
+     "???T262",
+     "Kan ikke lage tempfil",
+     "Impossibile creare file temporaneo"
+
+T263 "Simulering",
+     "Simulation",
+     "???T263",
+     "Simulering",
+     "Simulazione"
+
+T264 "Kunde inte starta tolken!",
+      "Can't run the token interpreter",
+      "Kann Sprachdatei nicht îffnen!",
+      "Kan ikke starte tolken!",
+      "Impossibile eseguire l'interprete dei comandi!"
+
+T265 "Ritfiler|*.rit||",
+     "Rit Files|*.rit||",
+     "???T265",
+     "Ritfiler|*.rit||",
+     "File RIT|*.rit||",
+
+T266 "nc-filer|",
+     "NC files|",
+     "???T266",
+     "nc-filer|",
+     "File CNC|",
+
+
+T267 "Spara detaljinstÑllningar",
+      "Save workpiece options",
+      "Speichern Detaileinstellungen",
+      "Lagre detalj-innstillinger",
+     "Salvare opzioni pezzo"
+
+T268 "Namnlîs%d",
+     "Nameless%d",
+     "???T268%d",
+     "Navnlõs%d",
+     "Senza nome %d"
+
+T269 "MaskininstÑllningsfiler|*.prf||",
+     "Machine setting files|*.prf||",
+     "<T269>|*.prf||",
+     "Maskin-innstillings filer|*.prf||",
+     "File settaggi macchina|*.prf||",
+T270 "Set-filer|",
+     "SET Files|",
+     "???T270|",
+     "SET-filer|",
+     "File SET|"
+
+T271 "Kan inte hitta tolkningsfilen. Full hÜrddisk ?",
+      "Can't find the simulation file. Harddisk full ?",
+      "Kann öbersetzungsdatei nicht finden. Kein Speicherplatz ?",
+      "Kan ikke finne tolknings-filen. Full harddisk ?",
+      "Impossibile trovare il file simulazione. Disco pieno?"
+
+T272 "Max 40 linjer per verktyg!",
+     "You cannot have more than 40 lines per tool",
+     "???T272",
+     "Max 40 linjer per verktõy",
+     "Massimo 40 linee per utensile"
+
+
+T273 "Radera verktyg?",
+      "Delete tool?",
+      "Werkzeug lîschen?",
+      "Fjerne verktõy?",
+      "Cancellare utensile?"
+
+T274 "cammodulsv.hlp",
+     "cammodulen.hlp",
+     "cammodulen.hlp",
+     "cammodulsv.hlp",
+     "cammodulen.hlp"
+
+T275 "Sîk efter fel i NC-kod",
+     "Search for errors in NC-code"
+     "???T275",
+     "Sîk efter fel i NC-kod",
+     "???T275"
+
+T276 "VÑrdet mÜste vara stîrre Ñn noll",
+     "The value has to be greater than zero",
+     "???T276",
+     "VÑrdet mÜste vara stîrre Ñn noll",
+     "???T276"
+
+T277 "Inner diametern kan inte vara stîrre Ñn ytterdiametern",
+     "The inner diameter can not be greater than the outer diameter"
+     "???T277",
+     "Inner diametern kan inte vara stîrre Ñn ytterdiametern",
+     "???T277"
+
+T278 "Underprogramkatalog:",
+     "Subprogramdirectory:",
+     "???T279",
+     "Underprogramkatalog:",
+     "???T279"
+
+T279 "Underprogrammens filÑndelse:",
+     "Subprograms filetype:",
+     "???T280",
+     "Underprogrammens filÑndelse:",
+     "???T280"
+
+T280 "SîkvÑg till TemporÑrkatalog:",
+     "Path to temp-directory:",
+     "???T278",
+     "SîkvÑg till TemporÑrkatalog:",
+     "???T278"
+
+T281 "Kan inte îppna filen: ",
+     "Can¥t open the file: ",
+     "???T281",
+     "Kan inte îppna filen: ",
+     "???T281"
+
+T282 "Antal fel: ",
+     "Errors: ",
+     "???T281",
+     "Antal fel: ",
+     "???T282"    
+
+T283 "Markera fel",
+     "Mark error",
+     "???T283",
+     "Markera fel",
+     "???T283"
+
+T284 "Markera alla",
+     "Mark all",
+     "???T284",
+     "Markera alla",
+     "???T284"
+
+T285 "SîkvÑg till Underprogramkatalog",
+     "Path to Subprogramdirectory",
+     "???T285",
+     "SîkvÑg till Underprogramkatalog",
+     "???T285"
+
+T286 "SîkvÑg till TemporÑrkatalog",
+     "Path to temp-directory",
+     "???T286",
+     "SîkvÑg till TemporÑrkatalog",
+     "???T286"
+
+T287 "Antal fel: ",
+     "Errors: ",
+     "???T287",
+     "Antal fel:,
+     "???T287"
+
+T288 "MaskininstÑllningarna har Ñndrats vill du spara Ñndringarna?",
+     "The machine settings has changed, do you want to save settings now?",
+     "???T287",
+     "MaskininstÑllningarna har undrats vill du spara Ñndringarna?",
+     "???T288"
+
+T289 "Vill du spara Ñndringarna i filen: ",
+     "Do you want to save changes to: ",
+     "???T289",
+     "Vill du spara Ñndringarna i filen: ",
+     "???T289"
+
+T290 "Plugin instÑllningar",
+     "Plugin Settings",
+     "???T289",
+     "Plugin instÑllningar",
+     "???T289"
+
+T291 "Flytta upp",
+     "Move upp",
+     "???T290",
+     "Flytta upp",
+     "???T289"
+
+T292 "Flytta ner",
+     "Move down",
+     "???T291",
+     "Flytta ner",
+     "???T291"
+
+
+- Alla texter i cncedit.c -----------------------
+
+
+C1 "Kan inte îppna",
+      "Can't open",
+      "Kann Datei nicht îffnen",
+      "Kan ikke Üpne",
+      "Impossibile aprire"
+
+C2 "Kunde inte allokera minne till menyn",
+      "Can't allocate memory for the menu",
+      "Speicher erschîpft",
+      "Kunne ikke allokere minne til menyen",
+      "Memoria insufficiente per il menu"
+C3 "Inget namn",
+      "No name",
+      "Dateiname fehlt",
+      "Intet navn",
+       "Senza nome"
+C4 "Felaktig hotkey",
+      "Illegal hotkey",
+      "Hotkey ungÅltig",
+      "Feil hotkey",
+      "Tasto acceleratore non valido"
+C5 "Felaktigt snabbval",
+      "Illegal shortcut",
+      "Schnellwahl ungÅltig",
+      "Feil hurtigvalg",
+      "Scorciatoia non valida"
+C6 "Ingen titel innan "item",
+      "No title before item",
+      "Keine öberschriften vor Absatz",
+      "Ingen tittel innen item",
+      "Oggetto senza titolo"
+C7 "Felaktigt funktionsnamn",
+      "Illegal function name",
+      "Programmfunktion ungÅltig",
+      "Feil funksjonsnavn",
+      "Funzione con nome non permesso"
+C8 "Felaktig dosfunktion",
+      "Illegal DOS function",
+      "DOS-Befehl ungÅltig",
+      "Feil dosfunksjon",
+      "Funzione DOS non permessa"
+C9 "Fel i funktionslistan",
+      "Error in function list",
+      "Fehler in der Funktionsliste",
+      "Feil i functionlist",
+      "Errore nella lista funzioni"
+C10 "StrÑngvariabel saknas",
+      "String variable missing",
+      "Dateiparameter fehlt",
+      "Strengvariabel mangler",
+      "Variabile stringa mancante"
+C11 "Heltalsvariabel saknas",
+      "Integer variable missing",
+      "Variabel fehlt",
+      "Intvariabel mangler",
+      "Variabile intero mancante"
+C12 "%s finns, uppdatera?",
+      "%s exist. Update ?",
+      "%s bereits vorhanden. Trotzdem speichern ?",
+      "%s finnes, lagre over?",
+      "%s esiste. Aggiornare?"
+
+C13 "Nuvarande program Ñr Ñndrat, spara Ñndringar?",
+      "File has changed, save changes ?",
+      "Letztes Programm geÑndert, speichern ?",
+      "NÜvërende program er endret, skal det lagres?",
+      "Il file ä stato modificato, salvare i cambiamenti?"
+
+C14 "Ladda program",
+      "Load program",
+      "Datei laden",
+      "Hente program",
+      "Apri programma"
+
+C15 "",
+      "",
+      "",
+      "",
+      ""
+C16 "Makro",
+      "Macro",
+      "Makro",
+      "Makro",
+      "Macro"
+
+C17 "HÑmta instÑllningar",
+      "Load options",
+      "Laden der Einstellungen",
+      "Hente innstillinger",
+      "Apri opzioni"
+
+C18 "Spara instÑllningar",
+      "Save options",
+      "Speichern der Einstellungen",
+      "Lagre innstillinger",
+      "Salva opzioni"
+
+C19 "SÑnder data",
+      "Transmitting data",
+      "Daten senden",
+      "Sender data",
+      "Trasmissione dati"
+
+C20 "Hittar ej CamModul",
+      "Can't find CamModul",
+      "CamModul nicht gefunden",
+      "Finner ikke Camodul",
+      "Impossibile trovare CamModul"
+
+C21 "Startar CamModul",
+      "Running CamModul",
+      "CamModul starten",
+      "Starter Camodul",
+      "Esecuzione CamModul"
+
+C22 "",
+      "",
+      "",
+      "",
+      ""
+C23 "Automatisk blocknumrering",
+      "Automatic linenumbers",
+      "Automatische Zeilennummerierung",
+      "Automatisk blokknummerering",
+      "Numerazione automatica"
+
+
+Editormacron
+
+C24 "",
+      "",
+      "",
+      "",
+      ""
+C25 "",
+      "",
+      "",
+      "",
+      ""
+C26 "",
+      "",
+      "",
+      "",
+      ""
+
+C27 "HÑmta",
+      "Load",
+      "Laden",
+      "Hente",
+      "Apri"
+
+
+C28 "Filnamn: %s",
+      "Filename: %s",
+      "Dateinamen: %s",
+      "Filnavn: %s",
+      "Nome file: %s"
+
+C29 "Operatîr: %s",
+      "User: %s",
+      "Anwender  : %s",
+      "Operatõr: %s",
+      "Utente: %s"
+
+C30 "Datum: %s",
+      "Date: %s",
+      "Datum: %s",
+      "Dato: %s",
+      "Data: %s"
+
+
+C31 "",
+        "",
+        "",
+        "",
+        ""
+C32 "",
+        "",
+        "",
+        "",
+        ""
+
+C33 "Skapa ritfil",
+      "Create drawing file",
+      "Zeichungsdatei",
+      "Lage tegnefil",
+      "Creare file disegno"
+
+C34 "Kunde inte skapa filen!",
+      "Can't create file!",
+      "Kann Datei nicht erstellen!",
+      "Kan ikke lage filen!",
+      "Impossibile creare il file!"
+
+C35 "Hittar ej filen!",
+      "File not found!",
+      "Datei nicht gefunden!",
+      "Finner ikke filen!",
+      "File non trovato!"
+C36 "",
+      "",
+      "",
+      "",
+      ""
+C37 "HÜrdvarulÜs ej installerat!\n",
+      "Security key not installed\n",
+      "Softwareschutz prÅfen (spricht nicht an)!\n",
+      "HardwarelÜs ikke installert!\n",
+      "Chiave di protezione non installata!\n"
+C38 "HÜrdvarulÜset Ñr felkodat!\n",
+      "Security key has invalid code!\n",
+      "Softwareschutz prÅfen (Lizenznummer unkorrekt)!\n",
+      "HardwarelÜs feilkodet!\n",
+      "Chiave di protezione non valida!\n"
+C39 "HÜrdvarulÜs ej kodat fîr CncSimulator!\n",
+      "Security key is not enabled for CncSimulator!\n",
+      "Softwareschutz prÅfen (fÅr CNC-Simulator unkorrekt)!\n",
+      "HardwarelÜs ikke kodet for CNC-Simulator!\n",
+      "Chiave di protezione non abilitata!\n"
+C40 "Exe-filen Ñr modifierad!\n",
+      "The EXE file has been modified!\n",
+      "Programmdateien geÑndert!\n",
+      "Exefilen er modifisert!\n",
+      "Il file eseguibile ä stato modificato!\n
+C41 "Kunde inte îppna %s : %d\n%c",
+      "Can't open %s : %d\n%c",
+      "Kann nicht îffnen %s : %d\n%c",
+      "Kan ikke Üpne %s : %d\n%c",
+      "Impossibile aprire %s : %d\n%c"
+
+C42 "Editor",
+      "Editor",
+      "Editor",
+      "Editor",
+      "Editor"
+
+C43 "Simulera",
+      "Simulate",
+      "Simulieren",
+      "Simulere",
+      "Simulare"
+
+C44 "Tryck pÜ valfri tangent...",
+      "Press any key...",
+      "Beliebige Taste drÅcken um fortzufahren...",
+      "Trykk valgfri tangent...",
+      "Premere un tasto"
+
+C45 "Maskintid",
+      "MACH.TIME",
+      "Laufzeit",
+      "Maskintid",
+      "Tempo macchina"
+
+C46 "",
+      "",
+      "",
+      "",
+      ""
+C47 "Skriver ut",
+      "Printing",
+      "Druckausgabe gestartet",
+      "Skriver ut",
+      "Stampa in corso"
+
+C48 "Ingen spindelstart",
+      "Spindlestart missing",
+      "Kein Spindelstart angegeben !",
+      "Ikke spindelstart",
+      "Manca avvio mandrino"
+
+C49 "Ingen matning",
+      "Feed missing",
+      "Kein Vorschub angegeben !",
+      "Ikke mating",
+      "Manca velocitÖ di avanzamento (FEED)"
+
+C50 "Ingen spindelhastighet",
+      "Spindlespeed missing",
+      "Keine Spindelgeschwindigkeit angegeben !",
+      "Ikke spindelhastighet",
+      "Manca velocitÖ mandrino (SPEED)"
+
+C51 "M30 saknas",
+      "M30 missing",
+      "M30 fehlt",
+      "M30 mangler",
+      "Manca fine programma (M30)"
+
+C52 " saknas",
+      " missing",
+      " fehlt",
+      " mangler",
+      " manca"
+
+C53 "Fel version av instÑllningsfil!",
+      "Wrong version of option file",
+      "Falsche Version der Einstellungsdatei",
+      "Feil versjon pÜ innstillingsfil!",
+      "Versione errata del file opzioni
+
+C54 "",
+      "",
+      "",
+      "",
+      ""
+C55 "Ladda detaljinstÑllningar",
+      "Load workpiece options",
+      "Laden Detaileinstellungen",
+      "Hente detalj-instillinger",
+      "Apri opzioni materiale"
+
+
+C56 "",
+      "",
+      "",
+      "",
+      ""
+C57 "",
+      "",
+      "",
+      "",
+      ""
+--- Texter i fras2.c -------------
+
+
+C58 "Snabbtransport i materialet",
+      "Rapid speed in the material",
+      "Schnelltransport in Material (Z < 0)",
+      "Ilgang i materialet!!!",
+      "Movimento rapido nel pezzo"
+C59 "FELAKTIG KOD: %d",
+      "ILLEGAL CODE: %d",
+      "Falscher Code: %d",
+      "FEIL KODE: %d",
+      "Codice non ammesso: %d"
+C60 "",
+      "",
+      "",
+      "",
+      ""
+
+
+C61 "Auto",
+      "Auto",
+      "Auto",
+      "Auto",
+      "Auto"
+
+C62 "Stega",
+      "Step",
+      "Manuell",
+      "Stepp",
+      "Passo"
+
+C63 "Avbryt",
+      "Cancel",
+      "Abbrechen",
+      "Avbryt",
+      "Annulla"
+
+
+
+C64 "SvarvstÜlet i chucken!",
+      "Collition with chuck",
+      "Drehwerkzeug im Drehfutter!",
+      "DreiestÜlet i chucken!",
+      "Collisione con il mandrino!"
+
+C65 "Snabbtransport i materialet!",
+      "Rapid speed in the material!",
+      "Schnelltransport im Material!",
+      "Ilgang i materialet!!!",
+      "Movimento nel pezzo!"
+
+C66 "VÑrde saknas.",
+      "Value missing.",
+      "Wert fehlt",
+      "Verdi mangler.",
+      "Valore mancante."
+
+C67 "OkÑnd ISO-kod.",
+      "Unknown ISO code",
+      "Unbekannter ISO-Code",
+      "Ukjent ISO-kode.",
+      "Codice ISO sconosciuto."
+
+C68 "Ingen radie angiven.",
+      "Radius missing",
+      "Keinen Radius angegeben",
+      "Ingen radie angitt.",
+      "Manca il raggio"
+
+C69 " G02:SLUTPUNKT FELAKTIG ",
+      " G02:ILLEGAL ENDPOINT ",
+      " G02:Schlu·punkt ungÅltig ",
+      " G02:SLUTTPUNKT FEIL ",
+      " G02: Punto finale errato"
+
+C70 " G03:SLUTPUNKT FELAKTIG ",
+      " G03:ILLEGAL ENDPOINT ",
+      " G03:Schlu·punkt ungÅltig ",
+      " G03:SLUTTPUNKT FEIL ",
+      " G03: Punto finale errato"
+
+-- Texter i frastext.c -------
+
+
+C71 " G02:SLUTPUNKT FELAKTIG ",
+      " G02:ILLEGAL ENDPOINT ",
+      " G02:Schlu·punkt ungÅltig ",
+      " G02:SLUTTPUNKT FEIL ",
+      " G02: Punto finale errato"
+
+C72 " G03:SLUTPUNKT FELAKTIG ",
+      " G03:ILLEGAL ENDPOINT ",
+      " G03:Schlu·punkt ungÅltig ",
+      " G03:SLUTTPUNKT FEIL ",
+      " G03: Punto finale errato"
+C73 " G41:FELAKTIG KONTUR ",
+      " G41:ILLEGAL CONTOUR ",
+      " G41:Kontur ungÅltig ",
+      "  G41: FEIL KONTUR  ",
+      " G41: Profilo errato"
+
+C74 " G42:FELAKTIG KONTUR ",
+      " G42:ILLEGAL CONTOUR ",
+      " G42:Kontur ungÅltig ",
+      "  G42: FEIL KONTUR  ",
+      " G42: Profilo errato"
+
+C75 " G41:FôR STOR DIAMETER ",
+      " G41:TOOL RADIUS TOO LARGE ",
+      " G41:Werkzeugdurchmesser > Konturdurchmesser ",
+      " G41: FOR STOR DIAMETER ",
+      " G41: Raggio utensile troppo grande"
+
+C76 " G42:FôR STOR DIAMETER ",
+      " G42:TOOL RADIUS TOO LARGE ",
+      " G42:Werkzeugdurchmesser > Konturdurchmesser ",
+      " G42: FOR STOR DIAMETER ",
+      " G42: Raggio utensile troppo grande"
+
+C77 " G41:MèSTE BôRJA MED G0,G1 ",
+      " G41:MUST BEGIN WITH G0,G1 ",
+      " G41:mu· mit G0,G1 anfangen ",
+      "G41:Mè STARTE MED G0-1",
+      " G41: manca G1 o G0"
+
+C78 " G42:MèSTE BôRJA MED G0,G1 ",
+      " G42:MUST BEGIN WITH G0,G1 ",
+      " G42:mu· mit G0-1 anfangen ",
+      "G42:Mè STARTE MED G0-1",
+      " G42: manca G1 o G0"
+
+C79 " G41:RADIE I Z-LED ",
+      " G41:RADIUS IN Z-AXIS ",
+      " G41:Radius in Z-Richtung ",
+      "    G41:RADIE I Z RETNING",
+      " G41: Raggio su asse Z"
+
+C80 " G42:RADIE I Z-LED ",
+      " G42:RADIUS IN Z-AXIS ",
+      " G42:Radius in Z-Richtung ",
+      "    G42:RADIE I Z RETNING",
+      " G42: Raggio su asse Z"
+C81 "Snabbtransport i materialet",
+      "Rapid speed in the material",
+      "Schnelltransport im Material",
+      "Ilgang i materialet!!!",
+      "Movimento rapido nel pezzo"
+
+C82 "Verktygsnummer:",
+      "Tool number:",
+      "Werkzeugnummer:",
+      "Verktõynummer:",
+      "Utensile Numero:"
+
+C83 "VÑrde saknas.",
+      "Value missing",
+      "Wert fehlt",
+      "Verdi mangler.",
+      "Valore mancante."
+C84 "OkÑnd ISO-kod.",
+      "Unknown ISO code.",
+      "Unbekannter ISO-Code",
+      "Ukjent ISO-kode.",
+      "Codice ISO sconosciuto"
+
+C85 "Spindelrotation ej angiven.",
+      "Spindlerotation missing.",
+      "Spindelumdrehung nicht angegeben",
+      "Spindelrotasjon ikke angitt.",
+      "Manca avvio mandrino"
+
+C86 "Ingen radie angiven.",
+      "Radius missing.",
+      "Kein Radius angegeben",
+      "Ingen radie angitt.",
+      "Manca il raggio"
+
+C87 "Hittar inte filen FTOOLS.TXT\n",
+      "File not found: FTOOLS.TXT\n",
+      "Datei FTOOLS.TXT nicht gefunden\n",
+      "Finner ikke filen FTOOLS.TXT \n",
+      "File non trovato: FTOOLS.TXT\n"
+C88 "Fel i filen FTOOLS.TXT\n",
+      "Error in file FTOOLS.TXT\n",
+      "Fehler in Datei FTOOLS.TXT\n",
+      "Feil i filen FTOOLS.TXT \n",
+      "Errore nel file FTOOLS.TXT\n"
+
+-- EfterslÑntare ---------------------
+
+
+C89 "Menyfil",
+      "Menufile",
+      "MenÅdatei",
+      "Menyfil",
+      "File menu"
+
+C90 "Ladda menyfil",
+      "Load menufile",
+      "MenÅdatei laden",
+      "Last menyfil",
+      "Apri file menu"
+
+C91 "Ingen menyfil",
+      "Menufile missing",
+      "MenÅdatei nicht gefunden",
+      "Ingen menyfil",
+      "File menu mancante"
+
+
+C92 "Fil '%s' Ñr Ñndrad, sparas Ñndringar?",
+      "File '%s' has changed. Save changes?",
+      "Soll die geÑnderte Datei '%s' gespeichert werden ?",
+      "Fil '%s'er endret, skal den lagres?",
+      "Il file '%s' ä stato cambiato. Salvare le modifiche ?"
+-- Felmeddelanden vid simulering -----
+
+C93 "èterhopp utan hopp",
+      "Illegal loop return code",
+      "RÅcksprungadresse des Loops nicht definiert",
+      "Gjenhopp uten hopp",
+      "Codice di fine ripetizione non valido"
+
+C94 "Fîr mÜnga nÑstlade hopp",
+      "Too many nested loops",
+      "Loopverschachtelung nicht auflîsbar",
+      "For mÜnge sammenhengende hopp",
+      "Troppe ripetizioni annidate"
+
+C95 "Hopp utan destination",
+      "Jump without destination",
+      "RÅcksprungadresse nicht definiert",
+      "Hopp uten destinasjon",
+      "Salto senza destinazione"
+
+
+C96 "Hittar inte hoppdestinationen",
+      "Jump destination not found",
+      "Sprungadresse nicht gefunden",
+      "Finner ikke hoppdestinationen",
+      "Destinazione non trovata"
+
+C97 "Inget filnamn fîr underprogram har angivits",
+      "Filename of subprogram missing",
+      "Kein Unterprogrammname angegeben",
+      "Ikke angitt under-program-filnamn",
+      "File o sottoprogramma mancante"
+
+C98 "Kunde inte îppna underprogram-filen",
+      "Can't open subprogram",
+      "Kann Unterprogramm nicht îffnen",
+      "Kan ikke Üpne under-program-filen",
+      "Impossibile aprire il sottoprogramma"
+
+C99 "NÑstlade disk-underprogram Ñr ej tillÜtna",
+      "Nested subprograms not allowed",
+      "Loopverschachtelung von externen Unterprogramme verboten",
+      "Sammenhengende disk-under-progs. ikke tillatt",
+      "Non sono ammessi sottoprogrammi annidati"
+
+C100 "Hittar inte tolkfilen",
+      "Can't find tokenfile",
+      "Kann Sprachdatei nicht finden",
+      "Finner ikke tolkfilen",
+      "Impossibile trovare il file comandi"
+
+C101 "Fîr lite minne fîr att lÑsa in tolkfilen.",
+      "Not enough memory for tokenfile.",
+      "Zu wenig Speicher, Laden der Sprachdatei nicht mîglich",
+      "For lite minne til Ü lese inn tolkfilen.",
+      "Memoiciente per il file comandi"
+
+C102 "Felaktig parameter i grovbearbetningscykel (G84)",
+      "Illegal parameter in rough cutting cycle (G84)",
+      "Falscher Parameter fÅr Grobbearbeitungszyklus(G84)",
+      "Feil parameter i grovbearbeiding syklus (G84)",
+      "Parametro non coretto in ciclo sgrossatura (G84)"
+
+C103 "Rîrelse utan att matningen Ñr satt",
+      "Movement without feedrate being set",
+      "???C103",
+      "Bevegelse uten mating er programmert",
+      "Movement without feedrate being set"
+
+C104 "èterstÑll",
+      "Undo",
+      "Wiederherstellen",
+      "Sett tilbake",
+      "Annulla"
+
+C105 "Radera",
+      "Delete",
+      "Lîschen",
+      "Fjern",
+      "Cancella"
+
+C106 "Flytta",
+      "Move",
+      "éndern",
+      "Flytt",
+      "Sposta"
+
+C107 "Ny",
+      "New",
+      "Neu",
+      "Ny",
+      "Nuovo"
+
+C108 "Verktyg",
+      "Tools",
+      "Werkzeug",
+      "Verktõy",
+      "Utensili"
+
+
+C109 "LÑgg till",
+      "Add point",
+      "HinzfÅgen",
+      "Legg til",
+      "Add point",
+      "Aggiungi punto"
+
+
+C110 "Borr",
+      "Drill",
+      "Bohren",
+      "Bor",
+      "Fora"
+
+C111 "Spara",
+      "Save",
+      "Speichern",
+      "Lagre",
+      "Salva"
+
+C112 "XY",
+      "XY",
+      "XY",
+      "XY",
+      "XY"
+C113 "Vinkel",
+      "Angle",
+      "Winkel",
+      "Vinkel",
+      "Angolo"
+
+C114 "Radera",
+      "Delete",
+      "Lîschen",
+      "Fjerne",
+      "Cancella"
+
+C115 "Verktygsnr:%d",
+      "Toolnumber:%d",
+      "Werkzeug Nr:%d",
+      "Verktõy nr:%d",
+      "Utensile Nr:%d"
+
+C116 "LÑngd",
+      "Length",
+      "LÑnge",
+      "Lengde",
+      "Lunghezza"
+
+C117 "Diameter",
+      "Diameter",
+      "Durchmesser",
+      "Dia.",
+      "Diametro"
+
+C118 "Radera verktyg?",
+      "Delete tool?",
+      "Werkzeug lîschen?",
+      "Fjerne verktõy?",
+      "Cancellare utensile?"
+
+
+C119 "LÑngd",
+      "Length",
+      "LÑnge",
+      "Lengde",
+      "Lunghezza"
+
+C120 "Vinkel",
+      "Angle",
+      "Winkel",
+      "Vinkel",
+      "Angolo"
+
+C121 "Info",
+      "Info",
+      "Info",
+      "Info",
+      "Info"
+C122 "Kan inte spara info!",
+      "Can't save info!",
+      "Kann Information nicht speichern!",
+      "Kan ikke lagre info!",
+      "Impossibile salvare le informazioni"
+
+C123 "Editera",
+      "Edit",
+      "Editieren",
+      "Editer",
+      "Edit"
+
+C124 "Matning utan spindelstart",
+      "Feed without spindle start",
+      "???C124",
+      "Mating uten spindelstart er programmert",
+      "Feed without spindle start"
+
+C125 "Rîrelse utan att spindelvarvtal Ñr satt",
+      "Movement without spindle speed set",
+      "???C125",
+      "Bevegelse uten omdreiningstall er programmert",
+      "Movement without spindle speed set",
+
+C126 "Info",
+      "Info",
+      "Info",
+      "Info",
+      "Info"
+C127 "VÑlj verktyg",
+      "Select tool",
+      "Werkzeug wÑhlen",
+      "Velg verktõy",
+      "Selezione utensile"
+
+C128 "VÑlj verktyg att kopiera",
+      "Select tool to copy",
+      "Werkzeug wÑhlen das kopiert werden soll ",
+      "Velg verktõy til Ü kopiere",
+      "Selezionare l'utensile da copiare"
+
+C129 "Kan inte kopiera verktyg",
+      "Can't copy the tool",
+      "Kann Werkzeug nicht kopieren",
+      "Kan ikke kopiere verktõy",
+      "Impossibile copiare l'utensile"
+
+
+C130 "VÑlj kopians position",
+      "Select copy destination",
+      "Wohin soll das Werkzeug kopiert werden?",
+      "Velg kopiens posisjon",
+      "Selezionare la destinazione della copia"
+
+
+C131 "LÑs in menyfil",
+      "Load menufile",
+      "MenÅdatei laden",
+      "Les inn menyfil",
+      "Apri file menu"
+
+C132 "Radera bit som stuckits av?",
+      "Erase piece that's been cut off?",
+      "Lîschen des Teils nach dem Abstechen?",
+      "Fjerne bit som er stukket av?",
+      "Eliminare il materiale tagliato?"
+
+
+C133 "",
+      "",
+      "",
+      "",
+      ""
+C134 "",
+      "",
+      "",
+      "",
+      ""
+
+C135 "Radera befintligt verktyg?",
+      "Erase existing tool?",
+      "Lîschen des aktuellen Werkzeugs",
+      "Fjerne eksisterende verktõy?",
+      "Cancellare gli utensili esistenti?"
+
+C136 "HÑmta verktyg",
+      "Load tools",
+      "Werkzeug laden",
+      "Hente verktõy",
+      "Apre utensili"
+
+C137 "",
+      "",
+      "",
+      "",
+      ""
+C138 "Kunde inte spara verktyg!",
+      "Error saving tools!",
+      "Fehler beim Speichern des Werkzeugs",
+      "Kan ikke lagre verktõy!",
+      "Errore nel salvataggio utensili"
+
+C139 "Sparar verktyg",
+      "Saving tools",
+      "Speichern des Werkzeugs",
+      "Lagrer verktõy",
+      "Salvataggio utensili in corso"
+
+C140 "",
+      "",
+      "",
+      "",
+C141 "",
+      "",
+      "",
+      "",
+      ""
+C142 "",
+      "",
+      "",
+      "",
+      ""
+C143 "",
+      "",
+      "",
+      "",
+      ""
+      ""
+C144 "Avsluta",
+      "Quit",
+      "???",
+      "Avslutte",
+      "Fine"
+
+C145 "Fel version pÜ instÑllningsfil. Kîr konverteringsprogram.",
+                "Wrong version of parameter file. Run conversion program",
+      "???",
+      "Feil versjon pÜ innstillingsfil. Kjõr konverteringsprogram",
+      "Versione errata file parametri. Eseguire programma di conversione" 
+
+C146 "Demo NC prog. GÜr ej att simulera!",
+                "Demo NC program. Cannot be simulated!",
+      "???",
+      "Demo NC program. GÜr ikke Ü simulere",
+      "Impossibile simulare i programmi CNC dimostrativi"
+
+
+C147 "Denna funktion finns inte i Demoversionen av programmet",
+     "This function is unavailable in the demo version of the program",
+     "This function is unavailable in the demo version of the program",
+     "This function is unavailable in the demo version of the program",
+     "This function is unavailable in the demo version of the program"
+
+
+--- Texter till Menufix.exe -----------------------
+
+N0 "Skriv in namnet pÜ menyn: ",
+      "Write the name of the menu: ",
+      "Geben Sie den Namen des MenÅs ein:",
+      "Skriv navn pÜ menyen: ",
+      "Scrivere il nome del menu"
+N1 "Skriv in namnet pÜ ny meny: ",
+      "Write the new name of the menu: ",
+      "Geben Sie den neuen Namen des MenÅs ein:",
+      "Skriv navn pÜ ny meny: ",
+      "Scrivere il nome del nuovo menu"
+
+N2 "Kunde inte îppna meny!\n",
+      "Can't open menu!\n",
+      "Kann MenÅdatei nicht îffnen",
+      "Kan ikke Üpne meny!\n",
+      "Impossibile aprire il menu\n"
+
+
+--- Texter till menyerna ---------------------------
+--- | byts ut mot ASCII 9 (tab) --------------------
+
+- File menu ----------------------------------------
+
+M0 "&Filer",
+   "&Files",
+   "Dateien",
+   "&Filer",
+   "&File"
+
+M1 "&Ny...||||Ctrl+N",
+   "&New||||Ctrl+N",
+   "&Neu||||Ctrl+N",
+   "&Ny||||Ctrl+N",
+   "&Nuovo||||Ctrl+N"
+
+M2 "&ôppna...||||Ctrl+O",
+   "&Open||||Ctrl+O",
+   "Laden||||Ctrl+O",
+   "Hente||||Ctrl+O",
+   "Aprire||||Ctrl+O"
+
+
+M3 "&Spara||||Ctrl+S",
+   "&Save||||Ctrl+S",
+   "&Speichern||||Ctrl+S",
+   "Lagre||||Ctrl+S",
+   "&Salva||||Ctrl+S"
+
+
+M4 "Spara som...",
+   "Save as...",
+   "Speichern als...",
+   "Lagre som",
+   "Salva come"
+
+
+M5 "ôppna sista CAM-programmet",
+   "Open the last CAM program",
+   "???M5",
+   "èpne siste Cam-program",
+   "Aprire l'ultimo programma CAM"
+
+
+M6 "Rad",
+   "Line",
+   "Line",
+   "Line",
+   "Line"
+
+M7 "Skriv ut...||||Ctrl+P",
+   "Print||||Ctrl+P",
+   "Ausgabe der Textes||||Ctrl+P",
+   "Utskrift av tekst||Ctrl+P",
+   "Stampa||||Ctrl+P"
+
+M8 "SÑnd till CNC",
+   "Send to CNC",
+   "Zu CNC senden",
+   "Send til CNC",
+   "Trasmettere al CNC"
+
+M9 "Ta emot frÜn CNC",
+   "Receive from CNC",
+   "Von CNC laden",
+   "Ta imot fra CNC",
+   "Ricevere dal CNC"
+
+M10 "Rad",
+    "Line",
+    "Line",
+    "Line",
+    "Line"
+
+M11 "HÑmta maskininstÑllningar...",
+    "Load machine settings",
+    "Laden Einstellungen",
+    "Hente maskin-innstillinger",
+    "Aprire settaggi macchina"
+
+M12 "Spara maskininstÑllningar...",
+    "Save machine settings",
+    "Speichern Einstellungen",
+    "Lagre maskin-innstillinger",
+    "Salvare settagg macchina"
+
+M13 "HÑmta detaljinstÑllningar...",
+    "Load detail settings",
+    "Laden Detaileinstellungen",
+    "Hente detalj-innstillinger",
+    "Aprire settaggi"
+
+M14 "Spara detaljinstÑllningar...",
+    "Save detail settings",
+    "Speichern Detaileinstellungen",
+    "Lagre detalj-innstillinger",
+    "Salvare dettagli"
+
+M15 "Rad",
+    "Line",
+    "Line",
+    "Line",
+    "Line"
+
+M16 "Konvertera till ritfil...",
+    "Convert to RIT-file",
+    "Zeichungsdatei",
+    "Lage tegnefil",
+    "Convertire in file-RIT"
+
+M17 "Rad",
+    "Line",
+    "Line",
+    "Line",
+    "Line"
+
+M18 "Senaste filer",
+    "Recent files",
+    "MRU",
+    "MRU",
+    "File recenti"
+
+M19 "Rad",
+    "Line",
+    "Line",
+    "Line",
+    "Line"
+
+M20 "Avsluta",
+    "Exit",
+    "Abschlie·en",
+    "Avslutte",
+    "Fine"
+
+- Edit menu ----------------------------
+
+M21 "&Editera",
+    "&Edit",
+    "&Editieren",
+    "&Editere",
+    "&Edit"
+
+M22 "èngra|Ctrl+Z",
+    "Undo|Ctrl+Z",
+    "ZurÅk|Ctrl+Z",
+    "Angre|Ctrl+Z",
+    "Annulla|Ctrl+Z"
+
+M23 "Rad",
+    "Line",
+    "Line",
+    "Line",
+    "Line"
+
+M24 "Omnumrera",
+    "Renumber",
+    "Umnummerieren",
+    "Omnummerere",
+    "Rinumera"
+
+M25 "Automatisk blocknumrering",
+    "Automatic line numbering",
+    "Auto. Zeilennummerierung",
+    "Automatisk blokknummerering",
+    "Numerazione automatica"
+
+M26 "Programstatistik",
+    "Program statistics",
+    "Program statistik",
+    "Programstatistikk",
+    "Statistiche programma"
+
+M27 "Kontrollera/korrigera",
+    "Check code",
+    "Kontrollieren/Korrigieren",
+    "Kontrollere /Korrigere",
+    "Controllo programma CNC"
+
+M28 "Komprimera",
+    "Compress",
+    "Komprimieren",
+    "Komprimere",
+    "Compressione"
+
+M29 "Rad",
+    "Line",
+    "Line",
+    "Line",
+    "Line"
+
+M30 "Sîk|Ctrl+F",
+    "Search|Ctrl+F",
+    "Suchen|Ctrl+F",
+    "Sõk|Ctrl+F",
+    "Trova|Ctrl+F"
+
+M31 "Sîk && byt ut",
+    "Replace",
+    "Suchen und Ersetzen",
+    "Sõk && Erstatt",
+    "Sostituisci"
+
+M32 "Rad",
+    "Line",
+    "Line",
+    "Line",
+    "Line"
+
+M33 "Klipp ut|Ctrl+X",
+    "Cut|Ctrl+X",
+    "Ausschneiden|Ctrl+X",
+    "Klipp ut|Ctrl+X",
+    "Taglia|Ctrl+X"
+
+M34 "Kopiera|Ctrl+C",
+    "Copy|Ctrl+C",
+    "Kopieren|Ctrl+C",
+    "Kopiere|Ctrl+C",
+    "Copia|Ctrl+C"
+
+M35 "Klistra in|Ctrl+V",
+    "Paste|Ctrl+V",
+    "EinfÅgen|Ctrl+V",
+    "Klistre inn|Ctrl+V",
+    "Incolla|Ctrl+V"
+
+
+M36 "Radera",
+    "Delete",
+    "Lîschen",
+    "Fjerne",
+    "Cancellare"
+        
+M37 "Rad",
+    "Line",
+    "Line",
+    "Line",
+    "Line"
+
+M38 "Ny buffert",
+    "New Buffer",
+    "Puffer     Neu",
+    "Ny buffer",
+    "Nuovo buffer"
+
+M39 "StÑng buffert",
+    "Close Buffer",
+    "Puffer     lîschen",
+    "Fjerne buffer",
+    "Chiude buffer"
+
+M40 "Rad",
+    "Line",
+    "Line",
+    "Line",
+    "Line"
+
+M41 "BerÑkna",
+    "Calculate",
+    "Berechnen",
+    "Beregne",
+    "Calcola"
+
+M42 "Maximera editorn",
+    "Maximize editor",
+    "???M43",
+    "Stor editor",
+    "Ingrandisce Editor"
+
+- Simulate menu --------------------------
+
+M43 "Simulera",
+    "Simulate",
+    "Simulieren",
+    "Simulere",
+    "Simula"
+
+M44 "Editera verktyg",
+    "Edit tools",
+    "Editieren des Werkzeugs",
+    "Editere verktõy",
+    "Edita utensili"
+
+M45 "DetaljinstÑllningar",
+    "Detail settings",
+    "Einstellung Rohling",
+    "Innstilling arbeidstykke",
+    "Opzioni materiale"
+
+M46 "Nollpunktsregister",
+    "Zero point register",
+    "Nullpunkts Register",
+    "Nullpunkts register",
+    "Origine"
+
+M47 "HÑmta verktyg",
+    "Load tools",
+    "Werkzeug laden",
+    "Hente verktõy",
+    "Apre utensili"
+        
+M48 "Spara verktyg",
+    "Save tools",
+    "Werkzeug speichern",
+    "Lagre verktõy",
+    "Slava utensili"
+
+M49 "SîkvÑg svarvverktyg",
+    "Lathe tool path",
+    "???M50",
+    "Sõkevei dreieverktõy",
+    "Percorso utensili tornio"
+
+- Screen menu ------------------------------
+
+M50 "&SkÑrm",
+    "Screen",
+    "Bildschirm",
+    "Skjerm",
+    "Schermo"
+
+M51 "StandardfÑlt",
+    "Standard",
+    "Standard",
+    "Standard",
+    "Standard"
+
+M52 "StatusfÑlt",
+    "Status",
+    "Status",
+    "Status",
+    "Stato"
+
+M53 "FrÑslÑge",
+    "Milling",
+    "FrÑsen",
+    "Fresing",
+    "Fresatura"
+
+M54 "SvarvlÑge",
+    "Turning",
+    "Drehen",
+    "Dreiing",
+    "Tornitura"
+
+M55 "Gas lÑge",
+    "Gas",
+    "Gas",
+    "Gas"
+    "Gas"
+- Settings ------------------
+
+M56 "&InstÑllningar",
+    "Settings",
+    "Einstellungen",
+    "&Innstillinger",
+    "Settaggi"
+
+M57 "Logga in",
+    "Login",
+    "???M57",
+    "Logga in",
+    "Login"
+
+M58 "Logga ut frÜn menyn",
+    "Lock menu",
+    "MenÅ sperren",
+    "LÜse meny",
+    "Blocca menu"
+
+
+M59 "éndra lîsenord",
+    "Change password",
+    "énderung Passwort",
+    "Endre passord",
+    "Cambia password"
+
+M60 "SimuleringsinstÑllningar",
+    "Simulation settings",
+    "Einstellung Simulation",
+    "Simuleringsinnstillinger",
+    "Opzioni simulazione"
+
+M61 "FilinstÑllningar",
+    "File settings",
+    "Datei - Einstellungen",
+    "Fil innstillinger",
+    "Opzioni file"
+
+M62 "Kontrollera/korrigera",
+    "Check NC code",
+    "Kontrollieren / Korrigieren",
+    "Kontrollere /Korrigere",
+    "Controllo programma CNC"
+
+M63 "MaskintidsinstÑllningar",
+    "Machine time settings",
+    "Maschinenzeiteinstellungen",
+    "Maskintidsinnstillinger",
+    "Settaggi calcolo tempi"
+
+M64 "KommunikationsinstÑllningar",
+    "Communication settings",
+    "Kommunikationsparameter",
+    "Kommunikasjons parametre",
+    "Opzioni Comunicazione"
+
+M65 "Syntaxkontroll",
+    "Syntax check",
+    "SyntaxprÅfung",
+    "Syntaxkontroll",
+    "Controllo sintattico"
+
+M66 "Plugin InstÑllningar",
+    "Plugin Settings",
+    "Plugin InstÑllningar",
+    "Plugin Settings",
+    "Plugin Settings"
+
+
+- Help menu ----------------------------
+
+M67 "&HjÑlp",
+    "&Help",
+    "&Hilfe",
+    "&Hjelp",
+    "Aiuto"
+
+M68 "Om CncSimulatorn",
+    "About CncSimulator",
+    "öber den CNC - Simulator ...",
+    "Om CncSimulatoren ...",
+    "Informazioni su CncSimulator"
+
+M69 "HjÑlp",
+    "Help",
+    "Hilfe",
+    "Hjelp",
+    "Aiuto"
+
+- NC-edit popup-meny ------------------
+
+M70 "Simulera till rad",
+    "Simulate to line",
+    "Simulate to line",
+    "Simulera till rad",
+    "Simulate to line"
+
+M71 "Simulera frÜn rad",
+    "Simulate from line",
+    "Simulate from line",
+    "Simulera frÜn rad",
+    "Simulate from line"
+
+M72 "Rad",
+    "Line",
+    "Line",
+    "Line",
+    "Line"
+
+M73 "Hel skÑrm",
+    "Full screen",
+    "Full screen",
+    "Hel skÑrm",
+    "Full screen"
+
+M74 "Rad",
+    "Line",
+    "Line",
+    "Line",
+    "Line"
+
+M75 "Klipp ut|Ctrl+X",
+    "Cut|Ctrl+X",
+    "Ausschneiden|Ctrl+X",
+    "Klipp ut|Ctrl+X",
+    "Taglia|Ctrl+X"
+
+M76 "Kopiera|Ctrl+C",
+    "Copy|Ctrl+C",
+    "Kopieren|Ctrl+C",
+    "Kopiere|Ctrl+C",
+    "Copia|Ctrl+C"
+
+M77 "Klistra in|Ctrl+V",
+    "Paste|Ctrl+V",
+    "EinfÅgen|Ctrl+V",
+    "Klistre inn|Ctrl+V",
+    "Incolla|Ctrl+V"
+
+
+M78 "Radera",
+    "Delete",
+    "Lîschen",
+    "Fjerne",
+    "Cancellare"
+        
+M79 "Rad",
+    "Line",
+    "Line",
+    "Line",
+    "Line"
+
+M80 "Sîk|Ctrl+F",
+    "Search|Ctrl+F",
+    "Suchen|Ctrl+F",
+    "Sõk|Ctrl+F",
+    "Trova|Ctrl+F"
+
+
+
+X1  "Ny",
+    "New",
+    "Neu",
+    "Ny",
+    "Nuovo"
+
+X2  "Spara",
+    "Save",
+    "Speichern",
+    "Lagre",
+    "Salva"
+
+
+X3  "Kopiera",
+    "Copy",
+    "Kopieren",
+    "Kopiere",
+    "Copia"
+
+X4 "Klistra in",
+   "Paste",
+   "EinfÅgen",
+   "Lime inn",
+   "Incolla"
+
+
+X5 "èterstÑll",
+   "Undo",
+   "Wiederherstellen",
+   "Sett tilbake",
+   "Annulla"
+
+
+X6 "Skriv ut program",
+   "Print program",
+   "Ausgabe des Programms",
+   "Skrive ut program",
+   "Stampa programma"
+
+
+X7 "HjÑlp",
+    "Help",
+    "Hilfe",
+    "Hjelp",
+    "Aiuto"
+
+X8 "XY",   
+   "XY",
+   "XY",   
+   "XY",   
+   "XY"
+
+X9 "XZ",   
+   "XZ",
+   "XZ",   
+   "XZ",   
+   "XZ"
+
+X10 "YZ",   
+    "YZ",
+    "YZ",   
+    "YZ",   
+    "YZ"
+
+X11 "3D",   
+    "3D",
+    "3D",   
+    "3D",   
+    "3D"
+
+X12 "BLOCK",   
+    "BLOCK",
+    "BLOCK",   
+    "BLOCK",   
+    "BLOCK"
+
+X13 "PLOT",   
+    "PLOT",
+    "PLOT",   
+    "PLOT",   
+    "PLOT"
+
+X14 "Visar aktuell vy pÜ helskÑrm",   
+    "Shows the current view fullscreen",
+    "Shows the current view fullscreen",
+    "Shows the current view fullscreen",
+    "Shows the current view fullscreen"
+
+
+X15 "Buffertlista",
+    "Buffer list",
+    "Buffer list",
+    "Buffer liste",
+    "Buffer list"
+
+X16 "NÑsta Buffert",
+    "Next Buffer",
+    "Next Buffer",
+    "Next Buffer",
+    "Next Buffer"
+
+X17 "FîregÜende Buffert",
+    "Previous Buffer",
+    "Previous Buffer",
+    "Previous Buffer",
+    "Previous Buffer"
+
+X18 "Radera Buffert",
+    "Delete Buffer",
+    "Lîschen Buffer",
+    "Fjerne Buffer",
+    "Cancellare Buffer"
+
+X19 "ôppna",
+    "Open",
+    "Laden",
+    "Hente",
+    "Aprire"
+
+
+X20 "Klipp ut",
+    "Cut",
+    "Ausschneiden",
+    "Klipp ut",
+    "Taglia"
+
